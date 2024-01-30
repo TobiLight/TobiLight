@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Python developer from Lagos, Nigeria <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ng.svg" alt="nuux_tv" /></h3>
 
 <p align="left"> <a href="https://x.com/0xTobii" target="blank"><img src="https://img.shields.io/twitter/follow/0xTobii?logo=twitter&style=for-the-badge" alt="0xTobii" /></a></p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nuuxcode&label=Profile%20views&color=0e75b6&style=flat" alt="nuuxcode" />
-  <a href="https://committers.top/morocco_public#nuuxcode" target="blank"><img src="https://user-badge.committers.top/morocco_public/nuuxcode.svg" alt="nuuxcode" /></a>
-</p>
+
 
 - 🔭 I’m currently working on **FastAPI Projects, React Remix projects**
 
@@ -53,5 +50,3 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
-
-
